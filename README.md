@@ -14,5 +14,5 @@ https://github.com/scaffold-eth/scaffold-eth-challenges/tree/challenge-1-decentr
 
 https://github.com/scaffold-eth/scaffold-eth-challenges/tree/challenge-2-token-vendor
 
-[Solution >>>](https://github.com/NicolaFerracin/scaffold-eth-challenges/commit/f1700aae1cb949e81cef0af63124a6a4a92ee001)
+[Solution >>>](https://github.com/NicolaFerracin/scaffold-eth-challenges/commit/f1700aae1cb949e81cef0af63124a6a4a92ee001)  
 [Site](https://damaged-babies.surge.sh/)
